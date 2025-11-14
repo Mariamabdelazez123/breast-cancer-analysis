@@ -21,6 +21,6 @@ A comprehensive data analysis and machine learning project for breast cancer det
 - Scikit-learn (machine learning)
 - Matplotlib • Seaborn (visualization)
 
-##  Installation & Usage
+###  Installation & Usage
 ```bash
 pip install -r requirements.txt
